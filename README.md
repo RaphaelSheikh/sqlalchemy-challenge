@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# SQLAlchemy-Challenge
 ![image](https://github.com/user-attachments/assets/46373d2d-5f3b-4946-9479-1cf8e3796b9f)
 
 This repository is designed to make a climate analysis on Honolulu, Hawaii, to help clients trip planning, and outline when they can plan their vacation.
