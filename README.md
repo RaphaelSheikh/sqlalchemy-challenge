@@ -5,7 +5,7 @@ This repository is designed to make a climate analysis on Honolulu, Hawaii, to h
 
 ## **Instructions**
 
-Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
+Congratulations! I've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with my trip planning, I decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
 
                                   Part 1: Analyze and Explore the Climate Data
 
@@ -56,7 +56,7 @@ To do so, complete the following steps:
     - List all the available routes.
  
 2. **`/api/v1.0/precipitation`**
-   - Convert the query results from your precipitation analysis (i.e. retrieve only the last 12 months of data) to a dictionary using ***date*** as the key and ***prcp*** as the value.
+   - Convert the query results from my precipitation analysis (i.e. retrieve only the last 12 months of data) to a dictionary using ***date*** as the key and ***prcp*** as the value.
     - Return the JSON representation of your dictionary.
  
 3. **`/api/v1.0/stations`**
