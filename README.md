@@ -5,7 +5,7 @@ This repository is designed to make a climate analysis on Honolulu, Hawaii, to h
 
 ## **Instructions**
 
-Congratulations! I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii. To help with my trip planning, I decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
+Congratulations! I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii. To help with my trip planning, I decide to do a climate analysis about the area. The following sections outline the steps that I need to take to accomplish this task.
 
                                   Part 1: Analyze and Explore the Climate Data
 
